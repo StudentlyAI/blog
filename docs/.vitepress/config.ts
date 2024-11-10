@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'en-US',
-  title: 'VitePress',
-  description: 'Vite & Vue powered static site generator.',
+  lang: 'en-GB',
+  title: 'Studently AI Blog',
+  description: 'Transform Your Academic Journey | Student Success Platformg',
 
   themeConfig: {
     nav: [
